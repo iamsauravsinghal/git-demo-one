@@ -1,1 +1,2 @@
-#Created a repository for git demo
+#Created a repository for git awsome demo
+#Hustle like a pro
